@@ -1,2 +1,2 @@
-# Capstone_Project
-test file
+# IBM Capstone_Project
+As the Data Analyst, I collected data from various sources, performed EDA, data wrangling, statistical analysis, data visualization, and built an interactive dashboard using IBM Cognos Analytics. The key requirements were identifying future skill needs, top programming languages, in-demand database skills, and popular IDEs. I prepared a presentation with an executive summary for stakeholders like HR and IT Heads.
