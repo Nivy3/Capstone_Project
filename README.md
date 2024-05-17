@@ -1,4 +1,4 @@
-### IBM Capstone Project - IT Technology Trends Analysis
+### IBM Capstone Project - Programming Trends Analysis
 
 I worked on the project taking up the role as a Data Analyst and performed the following taks
 
@@ -7,4 +7,4 @@ I worked on the project taking up the role as a Data Analyst and performed the f
 1. Analyzed the cleaned dataset to understand data distribution, identify outliers, and examine column correlations using EDA
 1. Created visualizations (line charts, stacked bar charts) to highlight data distributions and relationships
 1. Developed an interactive dashboard using IBM Cognos Analytics to visualize key insights from the survey dataset
-1. Finally, Presented the executive summary of the findings in a PowerPoint presentation for stakeholders like HR ad IT Heads
+1. Finally, Presented the executive summary of the findings in a PowerPoint presentation for stakeholders like HR ad IT Heads [Presentation link](https://github.com/Nivy3/Capstone_Project/blob/main/Programming%20Trend%20Analysis.pdf)
