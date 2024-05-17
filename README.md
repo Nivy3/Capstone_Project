@@ -1,4 +1,4 @@
-### IBM Capstone Project
+### IBM Capstone Project - IT Technology Trends Analysis
 
 I worked on the project taking up the role as a Data Analyst and performed the following taks
 
